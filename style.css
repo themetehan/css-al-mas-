@@ -1,0 +1,50 @@
+body{
+    background-color: pink;
+    color: blueviolet;
+    font-family: 'Roboto', sans-serif;
+}
+
+hr{
+    background-color: red;
+}
+
+#resim1{
+
+    
+    width: 200px;
+    height: 200px;
+
+}
+
+#resim2{
+
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+
+#birinci{
+    border: 1px solid;
+    width: 200px;
+    height:200px;
+    
+}
+
+#ikinci{
+    border: 1px solid;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    right: 100px;
+    top: 30px;
+}
+
+
+
+
+
+
+
